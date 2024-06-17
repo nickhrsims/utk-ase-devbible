@@ -89,8 +89,8 @@ complete participation, before dividing labor into other territories.
 
 ```
 
-With an established model, work should be feasible to be done by separate
-specialized sub-groups.
+With an established model, work can feasibly be done by separate specialized
+sub-groups.
 
 ### Single Source of Truth
 
