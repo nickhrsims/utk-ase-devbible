@@ -151,7 +151,8 @@ this way.
 
 ### Module Organization & Architectural Advisory
 
-I vote the Resource Server be structured around an architectural pattern _similar_ to MVC, following similar principles.
+I vote the Resource Server be structured around an architectural pattern
+_similar_ to MVC, following similar principles.
 
 The specific architectural design I propose describes the organization of
 intra-project dependencies.
