@@ -146,9 +146,8 @@ earn us points on the assignment.
 
 I vote we put sincere effort into providing a resource based, stateless HTTP
 API; i.e. a RESTful HTTP API. We will likely incur slight deviations, which is
-fine when necessary, but the primary objective should be to view the server as
-
-`FastAPI` certainly does not need to facilitate
+fine when necessary, but the primary objective should be to view the server
+this way.
 
 ### Module Organization & Architectural Advisory
 
