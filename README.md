@@ -68,14 +68,14 @@ I vote that the CDM should be the first thing we work on as a group, with
 complete participation, before dividing labor into other territories.
 
 ```text
-<< All these communication points require a common understanding of how
-<< to structure the data to be sent.
-<<
-<< This means that efforts to divide labor will result in blocking work
-<< until questions are answered regarding the shape of communication
-<< structures.
-<<
-<< Therefore, I believe this is the first thing to be done: the CDM.
+   All these communication points require a common understanding of how
+   to structure the data to be sent.
+
+   This means that efforts to divide labor will result in blocking work
+   until questions are answered regarding the shape of communication
+   structures.
+
+   Therefore, I believe this is the first thing to be done: the CDM.
 
         [ELASTICSEARCH]
               ^
