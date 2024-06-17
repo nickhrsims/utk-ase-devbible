@@ -205,7 +205,7 @@ Below, I strongly suggest option 1, it will allow for the writing of `null`
 mappers to be written. In this way, we can support DI and remove MongoDB as a
 testing requirement for other code.
 
-**On Inter-repository dependency**
+##### On Inter-repository dependency
 
 Here, we have three options:
 
